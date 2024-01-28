@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_QRL_Generator/static/css/main.d109cdcf.css",
+    "main.js": "/React_QRL_Generator/static/js/main.cd29f25c.js",
+    "index.html": "/React_QRL_Generator/index.html",
+    "main.d109cdcf.css.map": "/React_QRL_Generator/static/css/main.d109cdcf.css.map",
+    "main.cd29f25c.js.map": "/React_QRL_Generator/static/js/main.cd29f25c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d109cdcf.css",
+    "static/js/main.cd29f25c.js"
+  ]
+}
